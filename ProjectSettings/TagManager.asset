@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Floor
+  - Enemy
+  - cipherUnlockItem
+  - Weapon
+  - HasAttackAnim
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Obstacle
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 2350186873
+    locked: 0
+  - name: Walls
+    uniqueID: 1988774469
+    locked: 0
+  - name: Doors
+    uniqueID: 1512525719
+    locked: 0
+  - name: Decor
+    uniqueID: 429774681
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Obstacles
+  - FloorBackground
